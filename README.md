@@ -55,7 +55,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (October 2021 to Present)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -64,16 +64,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Ravensbourne University London (September 2012 to July 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Bachelor of the Arts in Editing and Post Production
+- Craft Editing 
+- Storage Management 
+- Production Collaborations
 
 #### Any other qualifications
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies
+## Interests
 
-Any cool stuff that makes you a super part of a software development team
+- Golf 
+- Cars
+- Computer hardware
+- Aviation 
+- NFL Fantasy
+- Baseball 
+
