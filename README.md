@@ -1,7 +1,7 @@
 ## Dean Lewis
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 **Who am I?**
+
 Hi! my name is Dean, cockneys call me Deano! I grew up in Kent with two sisters and one twin. (He's just a cloned repo, right.) I used to work in Post Production in Soho, London. I've worked on everything from skateboard montages to multi-million pound budgets. I've used tech throughout my life and always been fascinated about the powers of what communicating with computers can achieve! (best get in their good books before they take over the world)    
 
 ## Projects
