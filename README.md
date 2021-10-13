@@ -13,13 +13,13 @@ Hi! my name is Dean, cockneys call me Deano! I grew up in Kent with two sisters 
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**ENVY Post Production** (February 2016 to September 2019 & January 2021 August 2021)  
+_Senior Edit Assistant_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**UEFA Productions** (September 2019 to August 2020)  
+_Media Coordinator_
 
 - Any experience relevent to software development
 
