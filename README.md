@@ -79,7 +79,7 @@ That in some arguable way make you a better software developer or well-rounded p
 
 - Golf 
 - Cars
-- Computer hardware
+- Computer software/hardware
 - Aviation 
 - NFL Fantasy
 - Baseball 
