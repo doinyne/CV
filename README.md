@@ -2,7 +2,9 @@
 
 **Who am I?**
 
-Hi! my name is Dean, cockneys call me Deano! I grew up in Kent with two sisters and one twin. (He's just a cloned repo, right.) I used to work in Post Production in Soho, London. I've worked on everything from skateboard montages to multi-million pound budgets. I've used tech throughout my life and always been fascinated about the powers of what communicating with computers can achieve! (best get in their good books before they take over the world)    
+Hi! my name is Dean, cockneys call me Deano! I grew up in Kent with two sisters and one twin. (He's just a cloned repo, right.) I used to work in Post Production in Soho, London. I've worked on everything from skateboard montages to multi-million pound budgets. I've used tech throughout my life and always been fascinated about the powers of what communicating with computers can achieve! (best get in their good books before they take over the world) 
+
+Since October 2021, I have been studying at Makers Academy, a developer bootcamp, where I have been learning fundamentals of software development through making fun projects. My experience at Makers Academy has engrained in me the importance of best coding practices, and this is my biggest priority in looking for a junior developer role. I'd love to work in a supportive environment where those practices are followed.
 
 ## Projects
 
@@ -11,47 +13,32 @@ Hi! my name is Dean, cockneys call me Deano! I grew up in Kent with two sisters 
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
+You can see all of my work on my github profile https://github.com/doinyne 
+
 ## Work Experience
 
 **ENVY Post Production** (February 2016 to September 2019 & January 2021 August 2021)  
 _Senior Edit Assistant_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Managing/working in the central ingest office to make sure all ongoing jobs get completed
 
 **UEFA Productions** (September 2019 to August 2020)  
 _Media Coordinator_
 
-- Any experience relevent to software development
+- Managing UEFA's online archiving platforms
+
+**The Collectv (Netflix - 'Too Hot To Handle')** (March 2019 - April 2019)
+_Media Manager_
+
+- Working aboard on a multi-camera set, managing video content.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+Works confidently as an individual and in a team environment
+Strong ability to work well under pressure, multitask and complete projects professionally
+Love of sports and computers
+Knows the importance of listening, communicating and satisfying client’s needs
 
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
@@ -71,16 +58,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Storage Management 
 - Production Collaborations
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
 ## Interests
 
-- Golf 
-- Cars
-- Computer software/hardware
-- Aviation 
+- Playing the odd round of Golf and watching the four majors 
+- Aviation
 - NFL Fantasy
 - Baseball 
 
