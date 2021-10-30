@@ -38,7 +38,7 @@ _Media Manager_
 Works confidently as an individual and in a team environment
 Strong ability to work well under pressure, multitask and complete projects professionally
 Love of sports and computers
-Knows the importance of listening, communicating and satisfying client’s needs
+knows the importance of listening, communicating and satisfying client’s needs
 
 
 ## Education
