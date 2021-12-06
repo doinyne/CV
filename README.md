@@ -64,6 +64,5 @@ knows the importance of listening, communicating and satisfying client’s needs
 - Golf
 - Cricket
 - Football
-- NFL Fantasy
-- Baseball 
+
 
