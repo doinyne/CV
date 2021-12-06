@@ -61,8 +61,9 @@ knows the importance of listening, communicating and satisfying client’s needs
 
 ## Interests
 
-- Playing the odd round of Golf and watching the four majors 
-- Aviation
+- Golf
+- Cricket
+- Football
 - NFL Fantasy
 - Baseball 
 
