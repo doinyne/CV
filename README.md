@@ -2,8 +2,6 @@
 
 **Who am I?**
 
-Hi! my name is Dean. I used to work in Post Production in Soho, London. I've worked on everything from skateboard montages to multi-million pound budgets. I've used tech throughout my life and always been fascinated about the powers of what communicating with computers can achieve! (best get in their good books before they take over the world) 
-
 Since October 2021, I have been studying at Makers Academy, a developer bootcamp, where I have been learning fundamentals of software development through making fun projects. My experience at Makers Academy has engrained in me the importance of best coding practices, and this is my biggest priority in looking for a junior developer role. I'd love to work in a supportive environment where those practices are followed.
 
 ## Projects
