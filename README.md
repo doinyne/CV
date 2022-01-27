@@ -42,13 +42,11 @@ knows the importance of listening, communicating and satisfying client’s needs
 ## Education
 
 #### Makers Academy (October 2021 to January 2022)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+- Makers Academy is a 12-week computer programming bootcamp in London. At Makers its not all about the code, I also learnt about; teamwork, best practice, TDD, agile, communication, feedback, delivering value to a user – and, most importantly, independent problem-solving. 
 - OOP, TDD, MVC, DDD
-- Agile/XP
+- Agile/XP values
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec
 
 #### Ravensbourne University London (September 2012 to July 2015)
 
