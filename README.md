@@ -2,7 +2,7 @@
 
 **Who am I?**
 
-Since October 2021, I have been studying at Makers Academy, a developer bootcamp, where I have been learning fundamentals of software development through making fun projects. My experience at Makers Academy has engrained in me the importance of best coding practices, and this is my biggest priority in looking for a junior developer role. I'd love to work in a supportive environment where those practices are followed.
+I have graduated from Makers Academy, a developer bootcamp, where I have been learning fundamentals of software development through making fun projects. My experience at Makers Academy has engrained in me the importance of best coding practices, and this is my biggest priority in looking for a junior developer role. I'd love to work in a supportive environment where those practices are followed.
 
 ## Projects
 
