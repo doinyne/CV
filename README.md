@@ -8,8 +8,8 @@ Since October 2021, I have been studying at Makers Academy, a developer bootcamp
 
 | Name                         | Description                | Tech/tools           |
 | ---------------------------- | -------------------------- | ---------------------|
-| **Sweepstake**               | A webapp that assigns names to teams or players.     |Ruby on Rails, RSpec, |
-|                              ||Bootstrap & PostgreSQL|
+| **Sweepstake**               | A webapp that assigns names to teams or players.     |Ruby on Rails, RSpec, Bootstrap & PostgreSQL |
+|                              |
 | **Something else worked on** | A webapp to do y.          | Ruby                 |
 
 You can see all of my work on my github profile https://github.com/doinyne 
