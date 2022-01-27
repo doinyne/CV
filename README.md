@@ -6,10 +6,11 @@ Since October 2021, I have been studying at Makers Academy, a developer bootcamp
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                | Tech/tools           |
+| ---------------------------- | -------------------------- | ---------------------|
+| **Sweepstake**               | A webapp that assigns      |Ruby on Rails, RSpec, |
+|                              |  names to teams or players.|Bootstrap & PostgreSQL|
+| **Something else worked on** | A webapp to do y.          | Ruby                 |
 
 You can see all of my work on my github profile https://github.com/doinyne 
 
@@ -41,7 +42,7 @@ knows the importance of listening, communicating and satisfying client’s needs
 
 ## Education
 
-#### Makers Academy (October 2021 to Present)
+#### Makers Academy (October 2021 to January 2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
