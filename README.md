@@ -20,17 +20,29 @@ You can see all of my work on my github profile https://github.com/doinyne
 _Senior Edit Assistant_
 
 - Managing/working in the central ingest office to make sure all ongoing jobs get completed
+- Working tight deadlines on mulitple projects simultaneously
+- Working alongside clients to complete tasks daily
+- Being time flexable so clients can work with colleagues different timezones
+- Being ready to work aboard or on set at a moments notice
 
 **UEFA Productions** (September 2019 to August 2020)  
 _Media Coordinator_
 
 - Managing UEFA's online archiving platforms
+- Working remotely throughout a pandemic without new content to produce
+- Being time flexable so clients can work with colleagues different timezones
+- Being ready to work aboard or on set at a moments notice
+- Producing two weekly programs throughout the football season with additional projects with UEFA
 
 **The Collectv (Netflix - 'Too Hot To Handle')** (March 2019 - April 2019)
 
 _Media Manager_
 
 - Working aboard on a multi-camera set, managing video content.
+- Turning over camera rushes to edit in a timely manner
+- Work beyond a regular working week to cover film days
+- Working autonomously within a small team
+- Continued support for client after filming had finshed 
 
 ## Skills
 
@@ -38,7 +50,8 @@ Works confidently as an individual and in a team environment
 Strong ability to work well under pressure, multitask and complete projects professionally
 Love of sports and computers
 knows the importance of listening, communicating and satisfying client’s needs
-
+Working in TV has taught me to be able to withstand and recover quickly from difficult conditions
+Understanding the importance of understanding the problem and solution so it can be a preventive action
 
 ## Education
 
@@ -61,5 +74,4 @@ knows the importance of listening, communicating and satisfying client’s needs
 - Golf
 - Cricket
 - Football
-
-
+- NFL fantasy
