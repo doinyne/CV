@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dean Lewis</h1>
 <h3 align="center">Software engineer from London</h3>
 
+- 🌱 I’m currently learning **JavaScript, Jest and refining my interviews skills**
+
+- 📫 How to reach me **d.lewis.rave@gmail.com or via [LinkedIn](https://www.linkedin.com/in/deanalewis/)**
+
+- 💬 Feel free to take a look at my [CV](https://www.linkedin.com/in/deanalewis/details/featured/)
+
 I am a Makers Academy graduate, this is where I learnt the fundamentals of software development through making fun projects. My experience at Makers Academy has ingrained in me the importance of best coding practices, and this is my biggest priority in looking for a junior developer role. I'd love to work in a supportive environment where those practices are followed.
 
 ## Projects
