@@ -11,13 +11,13 @@ I am a Makers Academy graduate, this is where I learnt the fundamentals of softw
 
 ## Projects
 
-| Name                         | Description                | Tech/tools           |
-| ---------------------------- | -------------------------- | ---------------------|
-| **Sweepstake**               | A webapp that assigns names to teams or players.     |Ruby on Rails, RSpec, Bootstrap & PostgreSQL |
-| **Bank** | A CLI that lets you open and operate a bank account          | Ruby                 |
-| **Acebook** | A webapp clone of facebook | Ruby on Rails |
-
-You can see all of my work on my github profile https://github.com/doinyne 
+| Name | Description | Tech/tools |
+| ---- | ----------- | ---------- |
+| **[Quick Quiz](https://github.com/doinyne/quiz_app)** | Simple quiz app with highscores | HTML, CSS & Javascript |
+| **[acebook-ace](https://github.com/doinyne/acebook-ace)** | A webapp to replicate Facebook. | Ruby/Rails, React, Bootstrap, RSpec |
+| **[Sweepstake](https://github.com/doinyne/sweepstake)** | A webapp to generate football sweepstakes. Click [here](https://aqueous-cliffs-99174.herokuapp.com/) to check it out | Ruby/Rails, Bootstrap, RSpec |
+| **[Weather API](https://github.com/doinyne/weather)** | A webapp with weather api | JavaScript |
+| **[Bank tech test](https://github.com/doinyne/bank_tech_test)** | Command line bank account emulator | Ruby, RSpec |
 
 ## Work Experience
 
